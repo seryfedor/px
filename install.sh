@@ -55,3 +55,4 @@ EOL
 echo proxy:$apr1\$dDDrgEmJ\$IVV44e9.QmipTUKyHsu0u. > /etc/squid/passwd
 
 systemctl restart squid
+rm -rf ~/px/
